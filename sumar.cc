@@ -13,7 +13,7 @@ int main() {
     std::cin >> numero2;
 
     // Calcular la suma de los dos números
-    double suma = numero1 + numero2;
+    double suma = numero1 - numero2;
 
     // Mostrar el resultado al usuario
     std::cout << "La suma de " << numero1 << " y " << numero2 << " es: " << suma << std::endl;
